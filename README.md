@@ -4,7 +4,7 @@
 - 기간 : 2022.08.06 ~ 
 - 주제 : 새로운 환경에서 적응하여 게시판만들기
 - 개발 : IntelliJ IDEA Community Edition 2022.1.3, Chrome 브라우저
-- 사용언어 : JAVA(JDK 11), Mustache
+- 사용언어 : JAVA(JDK 11), Mustache, Html
 - 사용기술 : Spring Boot 2.6.7
 - 디자인 프레임워크 : Bootstrap
 
@@ -24,3 +24,6 @@
 - 스프링부트를 사용하여 간단한 게시판 만들기
 - 개발일지를 항상 작성하여 기록하는 습관을 들인다.
 - RESTful API와 Gradle이 익숙해지도록 연습한다.
+
+## 개발일지
+1. [개발환경 구성 및 폼데이터DB저장](myproject/DevLog/2022-08-06-sbp-dev-log-01.md)
