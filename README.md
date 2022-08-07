@@ -26,4 +26,5 @@
 - RESTful API와 Gradle이 익숙해지도록 연습한다.
 
 ## 개발일지
-1. [개발환경 구성 및 폼데이터DB저장](myproject/DevLog/2022-08-06-sbp-dev-log-01.md)
+1. [개발환경 구성 및 폼데이터 DB저장](myproject/DevLog/2022-08-06-sbp-dev-log-01.md)
+2. [롬복 리팩토링](myproject/DevLog/2022-08-07-sbp-dev-log-02.md)
