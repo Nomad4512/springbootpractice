@@ -28,3 +28,4 @@
 ## 개발일지
 1. [개발환경 구성 및 폼데이터 DB저장](myproject/DevLog/2022-08-06-sbp-dev-log-01.md)
 2. [롬복 리팩토링](myproject/DevLog/2022-08-07-sbp-dev-log-02.md)
+3. [정적컨텐츠, MVC와 템플릿엔진, API](myproject/DevLog/2022-08-08-sbp-dev-log-03.md)
