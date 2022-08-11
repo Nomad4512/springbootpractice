@@ -4,7 +4,7 @@
 - 기간 : 2022.08.06 ~ 
 - 주제 : 새로운 환경에서 적응하여 게시판만들기
 - 개발 : IntelliJ IDEA Community Edition 2022.1.3, Chrome 브라우저
-- 사용언어 : JAVA(JDK 11), Mustache, Html
+- 사용언어 : JAVA(JDK 11), Thymeleaf, Html, (Mustache)
 - 사용기술 : Spring Boot 2.6.7
 - 디자인 프레임워크 : Bootstrap
 
@@ -28,4 +28,6 @@
 ## 개발일지
 1. [개발환경 구성 및 폼데이터 DB저장](myproject/DevLog/2022-08-06-sbp-dev-log-01.md)
 2. [롬복 리팩토링](myproject/DevLog/2022-08-07-sbp-dev-log-02.md)
-3. [정적컨텐츠, MVC와 템플릿엔진, API](myproject/DevLog/2022-08-08-sbp-dev-log-03.md)
+3. [정적컨텐츠, MVC와 템플릿엔진,API](myproject/DevLog/2022-08-08-sbp-dev-log-03.md)
+4. [회원 도메인과 리포지토리 만들기,테스트](myproject/DevLog/2022-08-09-sbp-dev-log-04.md)
+5. [회원 서비스 개발,테스트](myproject/DevLog/2022-08-11-sbp-dev-log-05.md)

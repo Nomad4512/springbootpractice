@@ -3,13 +3,17 @@ package com.example.myproject.service;
 import com.example.myproject.domain.Member;
 import com.example.myproject.repository.MemberRepository;
 import com.example.myproject.repository.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 
+
 public class MemberService {// 서비스는 비지니스에 의존적으로 설계 -> 그래야 문제가 생겼을때 직관적
 
     private final MemberRepository memberRepository;
+
 
     public MemberService(MemberRepository memberRepository){
         this.memberRepository = memberRepository;
