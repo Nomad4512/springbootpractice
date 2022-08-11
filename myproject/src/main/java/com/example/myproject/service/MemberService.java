@@ -9,7 +9,11 @@ import java.util.Optional;
 
 public class MemberService {// 서비스는 비지니스에 의존적으로 설계 -> 그래야 문제가 생겼을때 직관적
 
-    private final MemberRepository memberRepository = new MemoryMemberRepository();
+    private final MemberRepository memberRepository;
+
+    public MemberService(MemberRepository memberRepository){
+        this.memberRepository = memberRepository;
+    }
 
     /*
      * 회원 가입
